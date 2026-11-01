@@ -1,0 +1,9 @@
+{
+  "name": "chesterton",
+  "version": "0.1.0",
+  "description": "Makes coding agents check why odd code exists (git history, PRs, issues, tests) before deleting it. Includes why.py, a one-page history of any lines.",
+  "author": { "name": "nuttakulsv" },
+  "homepage": "https://github.com/nuttakulsv/chesterton",
+  "license": "MIT",
+  "keywords": ["git", "refactoring", "code-archaeology", "legacy-code", "git-blame"]
+}

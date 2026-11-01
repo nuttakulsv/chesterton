@@ -1,0 +1,7 @@
+{
+  "name": "chesterton",
+  "owner": { "name": "nuttakulsv" },
+  "plugins": [
+    { "name": "chesterton", "source": "./", "description": "Makes coding agents check why odd code exists (git history, PRs, issues, tests) before deleting it. Includes why.py, a one-page history of any lines." }
+  ]
+}
